@@ -96,11 +96,11 @@ python -m venv .venv
 .venv\Scripts\activate
 
 ### 2. Install Dependencies
-
+```bash
 -pip install -r requirements.txt
 -pip install playwright matplotlib
 -python -m playwright install
-
+```
 ### 3. Run Application
 
 python -m streamlit run src/app.py
