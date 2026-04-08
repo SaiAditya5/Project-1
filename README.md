@@ -97,9 +97,9 @@ python -m venv .venv
 
 ### 2. Install Dependencies
 
-pip install -r requirements.txt
-pip install playwright matplotlib
-python -m playwright install
+-pip install -r requirements.txt
+-pip install playwright matplotlib
+-python -m playwright install
 
 ### 3. Run Application
 
